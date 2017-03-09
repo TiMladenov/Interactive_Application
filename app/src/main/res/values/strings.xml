@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Interactive Application</string>
+    <string name="quantity">Coffee Quantity:</string>
+    <string name="welcome">Welcome to Coffee Shop</string>
+    <string name="txtViewQuantity">0</string>
+    <string name="mainFont">sans-sarif</string>
+    <string name="viewWeight">1</string>
+    <string name="buttonTxt">+</string>
+    <string name="buttonTxt2">-</string>
+    <string name="buttonTxt3">Order</string>
+    <string name="price">Price:</string>
+    <string name="pricedisplay">$0</string>
+</resources>
