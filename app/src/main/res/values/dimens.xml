@@ -3,9 +3,13 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="buttonsSize">48dp</dimen>
-    <dimen name="viewWeightHeight">150dp</dimen>
+    <dimen name="viewWeightHeight">100dp</dimen>
+    <dimen name="viewHeight">0dp</dimen>
+    <dimen name="nullDP">0dp</dimen>
     <dimen name="genericTxtSize">20sp</dimen>
     <dimen name="pageTitleSize">30sp</dimen>
     <dimen name="priceSize">30sp</dimen>
+    <dimen name="fieldWidth">200dp</dimen>
+    <dimen name="textCenter">12dp</dimen>
     <dimen name="marginTop1">16dp</dimen>
 </resources>

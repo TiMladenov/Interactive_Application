@@ -3,7 +3,8 @@
     <color name="colorPrimary">#000000</color>
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="mainBackgnd">#8d6e63</color>
+    <color name="mainBackgnd">#4e342e</color>
     <color name="primaryTxtColor">#FFFFFF</color>
-    <color name="printButtonColor">#888888</color>
+    <color name="printButtonColor">#000000</color>
+    <color name="printButtonBgrndColor">#FFFFFF</color>
 </resources>
