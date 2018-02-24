@@ -1,4 +1,4 @@
-# Interactive_Application
+# Interactive Application
 v1.0 Udacity Practice Set 2B - Coffee shop order
 
 # Description
